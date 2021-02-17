@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## README
 
-You can use the [editor on GitHub](https://github.com/mjudy94/phoenix-sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Repo for Elixir and Phoenix projects as I follow tutorials and experiment with what the language has to offer. Also for getting my feet wet with the [Nix Package Manager](https://nixos.org).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
